@@ -8,9 +8,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/shadyxoxo/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with Splunk SOAR         | <a href="https://github.com/shadyxoxo/Detection-Lab/tree/main">Security Automation with Splunk SOAR </a>|
+| Network Traffic Monitoring and Attack Detection | SOC Automation Lab |
+| SIEM Implementation and Log Analysis        | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -54,5 +54,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/shadyxoxo/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/shadyxoxo/Detection-Lab/tree/main">Security Automation with Splunk SOAR</a>
+- Detection Lab
