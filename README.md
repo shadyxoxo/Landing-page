@@ -10,7 +10,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Security Automation with Splunk SOAR          | <a href="https://github.com/shadyxoxo/Detection-Lab/tree/main">Security Automation with Splunk SOAR </a>|
 | Microsoft Sentinel Playbooks                  | <a href="https://github.com/shadyxoxo/Microsoft-Sentinel-Playbooks/tree/main">Microsoft Sentinel Playbooks</a>|
-| Detection Lab                                 | <a href="https://github.com/shadyxoxo/Microsoft-Sentinel-Playbooks/tree/main">Detection Lab</a> | 
+| Detection Lab                                 | <a href="https://github.com/shadyxoxo/Detection-Lab/tree/main">Detection Lab</a>| 
 | Network Packet Indexer                        | SOC Automation Lab |
 | CTI Integration                               | Soc Automation Lab |
 | Network Traffic Monitoring and Attack Detection | SOC Automation Lab |
