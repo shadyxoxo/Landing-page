@@ -1,7 +1,7 @@
 # Hello, I'm Shadrack
 <a href="https://linkedin.com/in/shadrack-essilfie"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hulk am a recent graduate with a profound interest in technology and a dedication to solving complex IT and Cybersecurity problems.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex IT and Cybersecurity problems.
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am eager to Join your team, specifically aiming to join the Security Operations Center (SOC) as an Analyst.
 
