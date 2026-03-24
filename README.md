@@ -60,3 +60,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/shadyxoxo/Detection-Lab/tree/main">Security Automation with Splunk SOAR</a>
 - Detection Lab
+- <a href="https://github.com/shadyxoxo/TDX_LB_Ticket_Route.git">TDX Load Balancer Ticket Routing</a>
